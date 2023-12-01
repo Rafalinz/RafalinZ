@@ -4,6 +4,11 @@
 - 🌱 Estudando front-end.
 - 🧠 Obsecado em aprender!
 
+
+
+
+
+
   
 <p align="center">I ❤️ Sou um estudante focado em resolver desafios!. <br><br> Atualmente estudo para me tornar um desenvolvedor Front-end. Com o pensamento de crescer muito mais no futuro!!  
 
