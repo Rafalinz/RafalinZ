@@ -10,7 +10,7 @@
 
 
   
-<p align="center" padding="20px 0px">I ❤️ Sou um estudante focado em resolver desafios!. <br><br> Atualmente estudo para me tornar um desenvolvedor Front-end. Com o pensamento de crescer muito mais no futuro!!  
+<p align="center">I ❤️ Sou um estudante focado em resolver desafios!. <br><br> Atualmente estudo para me tornar um desenvolvedor Front-end. Com o pensamento de crescer muito mais no futuro!!  
 
 
 ## My Skills :
